@@ -1,6 +1,6 @@
 [October 26th] - Sprint 1 Standup 1
 1. What did you work on since the last standup?
-All members worked on the completion of Sprint 0.
+- All members worked on the completion of Sprint 0.
 
 2. What do you commit to next?
 - We are committing to completing the following 2 features: User registration/login, and either course lookup or syllabus upload.
