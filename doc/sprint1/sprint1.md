@@ -48,7 +48,7 @@ Implement front-end search bar and integrate with backend (Frontend Developer) <
 <ins>Development Team:</ins> Begin backend work for user authentication and credit tracking, then move to front-end integration. <br>
 
 **7. Spikes** <br>
-<ins>Technical Spikes:</ins> Various members are new to JavaScript and REACT. Front-end in general is a new concept to some members. There will be limitations within the sprint of what was manageable and accomplished given the knowledge base. As the sprints continue, it is expected that individual skillsets will develop so that complex features can be implemented. <br>
+<ins>Technical Spikes:</ins> Various members are new to JavaScript and REACT. Front-end in general is a new concept to some members. There will be limitations within the sprint of what is manageable and accomplished given the knowledge base. As the sprints continue, it is expected that individual skillsets will develop so that complex features can be implemented. <br>
 
 **8. Conclusion** <br>
 Sprint 1 will deliver core platform functionalities, allowing users to create accounts, upload syllabi, and earn/view credits. This establishes a foundation for future engagement and feature expansion in upcoming sprints.
