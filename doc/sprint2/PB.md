@@ -1,7 +1,7 @@
 **User Stories** <br>
-~~1. As a student, I want to create an account so that I can access the platform and share the syllabi.~~ <br>
+1. ~~As a student, I want to create an account so that I can access the platform and share the syllabi.~~ <br>
 
-~~2. As a student, I want to search and filter through syllabi so that I can find relevant resources efficiently.~~ <br>
+2. ~~As a student, I want to search and filter through syllabi so that I can find relevant resources efficiently.~~ <br>
 
 3. As a student, I want to earn contribution credits for each upload, so I feel motivated to share helpful syllabi. <br>
 
