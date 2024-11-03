@@ -10,26 +10,26 @@ Developers: Thomas Aziz <br>
 UI/UX Designers: Hien Le 
 
 **3. Sprint 1 User Stories** <br>
-<ins>User Story 1:</ins> User Registration and Authentication <br>
+<ins>User Story 1: User Registration and Authentication</ins> <br>
 *As a student, I want to create an account so that I can access the platform and share syllabi.* <br>
-User Story 2: Contribution Credit System <br>
+<ins>User Story 2: Contribution Credit System</ins> <br>
 *As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock.* <br>
-User Story 3: Basic Search Functionality <br>
+<ins>User Story 3: Basic Search Functionality</ins> <br>
 *As a student, I want to search through syllabi so that I can find relevant resources efficiently.* B
 
 **4. Task Breakddown** <br>
-User Story 1: User Registration and Authentication <br>
+<ins>User Story 1: User Registration and Authentication</ins> <br>
 Design Registration and Login UI  (Designer) <br>
 Set up backend authentication (API for user registration and login) (Backend Developer) <br>
 Implement front-end form validation and error handling  (Frontend Developer) <br>
 Integrate front-end and backend for registration and login (Frontend Developer) <br>
 
-User Story 2: Contribution Credit System <br>
+<ins>User Story 2: Contribution Credit System</ins> <br>
 Design credit display on user dashboard (Designer) <br>
 Set up backend for credit calculation and storage (Backend Developer) <br>
 Implement credit balance display on front-end (Frontend Developer) <br>
 
-User Story 3: Basic Search Functionality <br>
+<ins>User Story 3: Basic Search Functionality</ins> <br>
 Design search bar UI (Designer) <br>
 Set up backend search functionality and filtering (Backend Developer) <br>
 Implement front-end search bar and integrate with backend (Frontend Developer) <br>
