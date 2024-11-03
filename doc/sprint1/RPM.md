@@ -44,17 +44,14 @@ Epics/Key Features (By the end of the third sprint)
 - Feature: Reporting inappropriate content
 - Goal: Maintain a safe and respectful community through user-driven content moderation
 3. Sprint Breakdown
-  
-Sprint 1: Core platform setup with account creation, search, credit system.
-
-Sprint 2: Content Uploading, filtering, content preview, rating, categorization and comments for community interaction
-
-Sprint 3: Notifications, popular content, bookmarking, recommendations, and reporting inappropriate content
+- Sprint 1: Core platform setup with account creation, search, credit system.
+- Sprint 2: Content Uploading, filtering, content preview, rating, categorization and comments for community interaction
+- Sprint 3: Notifications, popular content, bookmarking, recommendations, and reporting inappropriate content
 
 4. Participants
-Product Owner: Maya Shamir
-Developers: Thomas Aziz
-UI/UX Designers: Hien Le
+- Product Owner: Maya Shamir
+- Developers: Thomas Aziz
+- UI/UX Designers: Hien Le
 
 5. Conclusion
 With all three-sprint plans, we aim to deliver a robust initial version of the platform, covering key features that address user needs in syllabus sharing, discovery, and engagement. Each Sprint will build upon the previous one to ensure a cohesive, value experience for students.
