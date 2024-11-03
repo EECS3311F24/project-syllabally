@@ -4,12 +4,10 @@
 **1.  Sprint Goal**
 The goal of sprint 1 is to establish the core functionalities of the platform, enabling students to create accounts, search for courses, and the credits system. By the end of the sprint, the platform should allow users to register, authenticate, and interact with basic content features, building the foundation for the platform.
 
-**2. Participants**
-Product Owner: Maya Shamir
-
-Developers: Thomas Aziz
-
-UI/UX Designers: Hien Le
+**2. Participants** <br>
+Product Owner: Maya Shamir <br>
+Developers: Thomas Aziz <br>
+UI/UX Designers: Hien Le <br>
 
 **3. Sprint 1 User Stories**
 
