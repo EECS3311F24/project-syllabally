@@ -20,7 +20,7 @@ UI/UX Designers: Hien Le
 <ins>User Story 3: Basic Search Functionality</ins> <br>
 *As a student, I want to search through syllabi so that I can find relevant resources efficiently.* B
 
-**4. Task Breakddown** <br>
+**4. Task Breakdown** <br>
 <ins>User Story 1: User Registration and Authentication</ins> <br>
 Design Registration and Login UI  (Designer) <br>
 Set up backend authentication (API for user registration and login) (Backend Developer) <br>
@@ -37,15 +37,18 @@ Design search bar UI (Designer) <br>
 Set up backend search functionality and filtering (Backend Developer) <br>
 Implement front-end search bar and integrate with backend (Frontend Developer) <br>
 
-**6. Decisions and Notes** <br>
+**5. Decisions and Notes** <br>
 <ins>Priority User Stories:</ins> User registration and authentication, as well as search for courses, are the highest priority to allow user engagement with the platform from the beginning. <br>
 <ins>Dependencies:</ins> User registration must be completed before any features requiring logged-in users (e.g., syllbus upload and credit system). <br>
 <ins>Technical Considerations:</ins> Decided to use Firebase for authentication to streamline development. <br>
 <ins>Risk:</ins> Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. <br>
 
-**7. Action Items** <br>
+**6. Action Items** <br>
 <ins>Design Team:</ins> Complete UI designs for registration, upload, credit system, and search by the first half of the sprint. <br>
 <ins>Development Team:</ins> Begin backend work for user authentication and credit tracking, then move to front-end integration. <br>
+
+**7. Spikes** <br>
+<ins>Technical Spikes:</ins> Various members are new to JavaScript and REACT. Front-end in general is a new concept to some members. There will be limitations within the sprint of what was manageable and accomplished given the knowledge base. As the sprints continue, it is expected that individual skillsets will develop so that complex features can be implemented. <br>
 
 **8. Conclusion** <br>
 Sprint 1 will deliver core platform functionalities, allowing users to create accounts, upload syllabi, and earn/view credits. This establishes a foundation for future engagement and feature expansion in upcoming sprints.
