@@ -17,7 +17,7 @@
 
 9. As a user, I want to leave comments on an uploaded syllabus, so I gain/provide insight regarding it. <br>
 
-10. As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. **-Not completed from Sprint 1** <br>
+10. As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. **-NOT COMPLETED FROM SPRINT 1** <br>
 
 11. As a user, I want to be able to engage in discussion forums, so that I can get specialized feedback for questions. <br>
 
@@ -39,4 +39,4 @@
 
 20. As a professor, I want to verify the authenticity of the uploaded materials, so that the post would have higher popularity and credibility for students to unlock and access. <br>
 
-21. **NEW FROM SR1: TO BE GIVEN PRIORITY** As a student, I want to filter through my searches so that I can find the most relevant results.
+21. **NEW FROM SR1 - TO BE GIVEN PRIORITY:** As a student, I want to filter through my searches so that I can find the most relevant results.
