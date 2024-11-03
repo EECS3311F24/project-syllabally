@@ -1,4 +1,5 @@
 [October 31] - Sprint 1 Standup 3
+
 Members present: Maya, Hien, Thomas
 1. What did you work on since the last standup?
 - Initial draft of scraping YorkU courses for Syllabally search feature
