@@ -5,9 +5,11 @@ Project Title: Syllabally
 Participants: Hien Le, Maya Shamir, Thomas Aziz
 
 Release Goal
+
 To deliver a functional and engaging platform within three sprints that allows students to create accounts, share and discover syllabi, interact with peers, and access relevant course resources. The release aims to provide core functionality, a contribution credit system, and basic engagement features, enabling students to easily search for, preview, and discuss course materials.
 
 Project Scope
+
 The project scope is defined around key epics/features essential for the first release. Each sprint will focus on delivering a sunset of these features to ensure a functional and valuable platform by the end of the third sprint.
 
 Epics/Key Features (By the end of the third sprint)
