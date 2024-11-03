@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import styles from './RegisterPage.module.css';
 
 export default function RegisterPage() {
   const [email, setEmail] = useState('');
@@ -34,22 +35,22 @@ export default function RegisterPage() {
   };
 
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <h1>Register</h1>
-      <form onSubmit={handleRegister}>
+    <div className={styles.container}>
+      <h1 className={styles.heading}>Register</h1>
+      <form onSubmit={handleRegister} className={styles.form}>
         <div>
-          <label>Name (optional):</label>
-          <input type="text" value={name} onChange={(e) => setName(e.target.value)} />
+          <label className={styles.label}>Name (optional):</label>
+          <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={styles.input} />
         </div>
         <div>
-          <label>Email:</label>
-          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+          <label className={styles.label}>Email:</label>
+          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} className={styles.input} required />
         </div>
         <div>
-          <label>Password:</label>
-          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
+          <label className={styles.label}>Password:</label>
+          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className={styles.input} required />
         </div>
-        <button type="submit">Register</button>
+        <button type="submit" className={styles.button}>Register</button>
       </form>
     </div>
   );

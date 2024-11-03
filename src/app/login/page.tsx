@@ -3,6 +3,7 @@
 import { signIn } from 'next-auth/react';
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import styles from './LoginPage.module.css';
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
@@ -26,18 +27,18 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <h1>Login</h1>
-      <form onSubmit={handleLogin}>
+    <div className={styles.container}>
+      <h1 className={styles.heading}>Login</h1>
+      <form onSubmit={handleLogin} className={styles.form}>
         <div>
-          <label>Email:</label>
-          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} required />
+          <label className={styles.label}>Email:</label>
+          <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} className={styles.input} required />
         </div>
         <div>
-          <label>Password:</label>
-          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
+          <label className={styles.label}>Password:</label>
+          <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} className={styles.input} required />
         </div>
-        <button type="submit">Login</button>
+        <button type="submit" className={styles.button}>Login</button>
       </form>
     </div>
   );

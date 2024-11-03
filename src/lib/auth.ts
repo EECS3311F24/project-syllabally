@@ -2,7 +2,7 @@ import { NextAuthOptions } from 'next-auth';
 import CredentialsProvider from 'next-auth/providers/credentials';
 import { getApps, initializeApp, cert } from 'firebase-admin/app';
 import { getFirestore } from 'firebase-admin/firestore';
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 
 // Initialize Firebase Admin SDK
 if (!getApps().length) {
