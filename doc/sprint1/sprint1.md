@@ -6,7 +6,9 @@ The goal of sprint 1 is to establish the core functionalities of the platform, e
 
 **2. Participants**
 Product Owner: Maya Shamir
+
 Developers: Thomas Aziz
+
 UI/UX Designers: Hien Le
 
 **3. Sprint 1 User Stories**
