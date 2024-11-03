@@ -1,4 +1,5 @@
 [October 29th] - Sprint 1 Standup 2
+
 Members present: Maya, Hien, Thomas
 1. What did you work on since the last standup?
 - Basic login and registration functionality established
