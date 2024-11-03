@@ -1,4 +1,4 @@
-[October 31] - Sprint 1 Standup 3
+[October 31th] - Sprint 1 Standup 3
 
 Members present: Maya Shamir, Hien Le, Thomas Aziz
 1. What did you work on since the last standup?
