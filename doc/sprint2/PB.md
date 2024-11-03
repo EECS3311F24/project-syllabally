@@ -37,5 +37,6 @@
 
 19. As a student, I want to be able to compare between instructors so that I can find which professor of that course is suitable for me. <br>
 
-20. As a professor, I want to verify the authenticity of the uploaded materials, so that the post would have higher popularity and credibility for students to unlock and access. 
+20. As a professor, I want to verify the authenticity of the uploaded materials, so that the post would have higher popularity and credibility for students to unlock and access. <br>
 
+21. **NEW FROM SR1: TO BE GIVEN PRIORITY** As a student, I want to filter through my searches so that I can find the most relevant results.
