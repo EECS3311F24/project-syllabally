@@ -5,22 +5,29 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p $PORT",
     "lint": "next lint"
   },
   "dependencies": {
     "@google-cloud/pubsub": "^4.7.2",
     "@google-cloud/storage": "^7.13.0",
+    "@next-auth/firebase-adapter": "^0.0.2-canary.207",
     "admin-sdk": "^2.4.1",
+    "ajv": "^8.17.1",
+    "bcrypt": "^5.1.1",
     "express": "^4.21.1",
-    "firebase": "^10.14.0",
-    "next": "14.2.15",
-    "next-auth": "^4.24.8",
+    "firebase-admin": "^12.7.0",
+    "lodash.debounce": "^4.0.8",
+    "next": "^15.0.1",
+    "next-auth": "^4.24.10",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "uri-js": "^4.4.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/bcrypt": "^5.0.2",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/node": "^20.17.5",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",

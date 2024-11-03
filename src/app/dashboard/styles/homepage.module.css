@@ -1,0 +1,16 @@
+/* styles/HomePage.module.css */
+
+.layout {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mainContent {
+    display: flex;
+  }
+  
+  .content {
+    padding: 20px;
+    flex: 1;
+  }
+  
