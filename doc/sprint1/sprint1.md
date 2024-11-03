@@ -1,4 +1,4 @@
-**Sprint 1 Planning Meeting (sprint1.md)**
+**Sprint 1 Planning Meeting (sprint1.md)** <br>
 **Project Title:** Syllabally
 
 **1.  Sprint Goal** <br>
