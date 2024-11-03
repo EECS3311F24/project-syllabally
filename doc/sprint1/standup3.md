@@ -1,6 +1,6 @@
 [October 31] - Sprint 1 Standup 3
 
-Members present: Maya, Hien, Thomas
+Members present: Maya Shamir, Hien Le, Thomas Aziz
 1. What did you work on since the last standup?
 - Initial draft of scraping YorkU courses for Syllabally search feature
 - Formulating home page that will correspond to search feature
