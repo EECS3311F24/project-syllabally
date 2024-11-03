@@ -1,22 +1,21 @@
 **Sprint 1 Planning Meeting (sprint1.md)**
 **Project Title:** Syllabally
 
-**1.  Sprint Goal**
+**1.  Sprint Goal** <br>
 The goal of sprint 1 is to establish the core functionalities of the platform, enabling students to create accounts, search for courses, and the credits system. By the end of the sprint, the platform should allow users to register, authenticate, and interact with basic content features, building the foundation for the platform.
 
 **2. Participants** <br>
 Product Owner: Maya Shamir <br>
 Developers: Thomas Aziz <br>
-UI/UX Designers: Hien Le <br>
+UI/UX Designers: Hien Le 
 
-**3. Sprint 1 User Stories**
-
-User Story 1: User Registration and Authentication
-As a student, I want to create an account so that I can access the platform and share syllabi.
-User Story 2: Contribution Credit System
-As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock.
-User Story 3: Basic Search Functionality
-As a student, I want to search through syllabi so that I can find relevant resources efficiently.
+**3. Sprint 1 User Stories** <br>
+User Story 1: User Registration and Authentication <br>
+As a student, I want to create an account so that I can access the platform and share syllabi. <br>
+User Story 2: Contribution Credit System <br>
+As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. <br>
+User Story 3: Basic Search Functionality <br>
+As a student, I want to search through syllabi so that I can find relevant resources efficiently. B
 
 **4. Task Breakddown**
 
