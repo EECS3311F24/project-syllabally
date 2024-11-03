@@ -54,7 +54,8 @@ Epics/Key Features (By the end of the third sprint)
 - UI/UX Designers: Hien Le
 
 5. Conclusion
-With all three-sprint plans, we aim to deliver a robust initial version of the platform, covering key features that address user needs in syllabus sharing, discovery, and engagement. Each Sprint will build upon the previous one to ensure a cohesive, value experience for students.
+
+  With all three-sprint plans, we aim to deliver a robust initial version of the platform, covering key features that address user needs in syllabus sharing, discovery, and   engagement. Each Sprint will build upon the previous one to ensure a cohesive, value experience for students.
 
 
 
