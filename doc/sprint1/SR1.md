@@ -1,5 +1,9 @@
 **SR1.md** <br>
+
+**Project Title:** Syllabally <br> 
+
 **Participants:** Hien Le, Maya Shamir, Thomas Aziz <br>
+
 **Notetaker:** Maya Shamir <br>
 
 **Unfinished Tasks:**
