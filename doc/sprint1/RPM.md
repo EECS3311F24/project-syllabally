@@ -39,7 +39,7 @@ Epics/Key Features (By the end of the third sprint)
 - Feature: Recommendations based on browsing history
 - Goal: Provide personalized course and material suggestions to help students find relevant content.
 10. Content Moderation
--Feature: Reporting inappropriate content
+- Feature: Reporting inappropriate content
 - Goal: Maintain a safe and respectful community through user-driven content moderation
 3. Sprint Breakdown
 Sprint 1: Core platform setup with account creation, search, credit system.
