@@ -1,6 +1,6 @@
 [October 29th] - Sprint 1 Standup 2
 
-Members: Maya, Hien, Thomas
+Members: Maya Shamir, Hien Le, Thomas Aziz
 1. What did you work on since the last standup?
 - Basic login and registration functionality established
 - Developed verification of account (authentication)
