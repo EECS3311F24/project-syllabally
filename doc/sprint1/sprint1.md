@@ -11,42 +11,39 @@ UI/UX Designers: Hien Le
 
 **3. Sprint 1 User Stories** <br>
 User Story 1: User Registration and Authentication <br>
-As a student, I want to create an account so that I can access the platform and share syllabi. <br>
+*As a student, I want to create an account so that I can access the platform and share syllabi.* <br>
 User Story 2: Contribution Credit System <br>
-As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. <br>
+*As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock.* <br>
 User Story 3: Basic Search Functionality <br>
-As a student, I want to search through syllabi so that I can find relevant resources efficiently. B
+*As a student, I want to search through syllabi so that I can find relevant resources efficiently.* B
 
-**4. Task Breakddown**
+**4. Task Breakddown** <br>
+User Story 1: User Registration and Authentication <br>
+Design Registration and Login UI  (Designer) <br>
+Set up backend authentication (API for user registration and login) (Backend Developer) <br>
+Implement front-end form validation and error handling  (Frontend Developer) <br>
+Integrate front-end and backend for registration and login (Frontend Developer) <br>
 
-User Story 1: User Registration and Authentication
-Design Registration and Login UI  (Designer)
-Set up backend authentication (API for user registration and login) (Backend Developer)
-Implement front-end form validation and error handling  (Frontend Developer)
-Integrate front-end and backend for registration and login (Frontend Developer)
+User Story 2: Contribution Credit System <br>
+Design credit display on user dashboard (Designer) <br>
+Set up backend for credit calculation and storage (Backend Developer) <br>
+Implement credit balance display on front-end (Frontend Developer) <br>
 
-User Story 2: Contribution Credit System
-Design credit display on user dashboard (Designer)
-Set up backend for credit calculation and storage (Backend Developer)
-Implement credit balance display on front-end (Frontend Developer)
+User Story 3: Basic Search Functionality <br>
+Design search bar UI (Designer) <br>
+Set up backend search functionality and filtering (Backend Developer) <br>
+Implement front-end search bar and integrate with backend (Frontend Developer) <br>
 
-User Story 3: Basic Search Functionality
-Design search bar UI (Designer)
-Set up backend search functionality and filtering (Backend Developer)
-Implement front-end search bar and integrate with backend (Frontend Developer)
+**6. Decisions and Notes** <br>
+Priority User Stories: User registration and authentication, as well as search for courses, are the highest priority to allow user engagement with the platform from the beginning. <br>
+Dependencies: User registration must be completed before any features requiring logged-in users (e.g., syllbus upload and credit system). <br>
+Technical Considerations: Decided to use Firebase for authentication to streamline development. <br>
+Risk: Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. <br>
 
-**6. Decisions and Notes**
+**7. Action Items** <br>
+Design Team: Complete UI designs for registration, upload, credit system, and search by the first half of the sprint. <br>
+Development Team: Begin backend work for user authentication and credit tracking, then move to front-end integration. <br>
 
-Priority User Stories: User registration and authentication, as well as search for courses, are the highest priority to allow user engagement with the platform from the beginning.
-Dependencies: User registration must be completed before any features requiring logged-in users (e.g., syllbus upload and credit system).
-Technical Considerations: Decided to use Firebase for authentication to streamline development.
-Risk: Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements.
-
-**7. Action Items**
-
-Design Team: Complete UI designs for registration, upload, credit system, and search by the first half of the sprint.
-Development Team: Begin backend work for user authentication and credit tracking, then move to front-end integration.
-
-**8. Conclusion**
+**8. Conclusion** <br>
 Sprint 1 will deliver core platform functionalities, allowing users to create accounts, upload syllabi, and earn/view credits. This establishes a foundation for future engagement and feature expansion in upcoming sprints.
 
