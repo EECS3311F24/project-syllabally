@@ -2,7 +2,7 @@
 
 **Project Title:** Syllabally
 
-**Participants:** Hien, Maya, Thomas
+**Participants:** Hien Le, Maya Shamir, Thomas Aziz
 
 **1.  Sprint Goal** <br>
 The goal of sprint 1 is to establish the core functionalities of the platform, enabling students to create accounts, search for courses, and the credits system. By the end of the sprint, the platform should allow users to register, authenticate, and interact with basic content features, building the foundation for the platform.
