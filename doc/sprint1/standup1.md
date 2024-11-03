@@ -1,4 +1,6 @@
 [October 26th] - Sprint 1 Standup 1
+
+Members: Maya, Hien, Thomas
 1. What did you work on since the last standup?
 - All members worked on the completion of Sprint 0.
 
