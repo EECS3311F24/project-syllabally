@@ -1,18 +1,18 @@
-Release Planning Meeting (RPM.md)
+**Release Planning Meeting (RPM.md)**
 
-Project Title: Syllabally
+**Project Title:** Syllabally
 
-Participants: Hien Le, Maya Shamir, Thomas Aziz
+**Participants:** Hien Le, Maya Shamir, Thomas Aziz
 
-Release Goal
+**Release Goal**
 
 To deliver a functional and engaging platform within three sprints that allows students to create accounts, share and discover syllabi, interact with peers, and access relevant course resources. The release aims to provide core functionality, a contribution credit system, and basic engagement features, enabling students to easily search for, preview, and discuss course materials.
 
-Project Scope
+**Project Scope**
 
 The project scope is defined around key epics/features essential for the first release. Each sprint will focus on delivering a sunset of these features to ensure a functional and valuable platform by the end of the third sprint.
 
-Epics/Key Features (By the end of the third sprint)
+**Epics/Key Features (By the end of the third sprint)**
 1. User Authentication and Account Management
 - Feature: User registration, login, and authentication
 - Goal: Enable students to securely create and access their accounts on the platform.
@@ -43,19 +43,20 @@ Epics/Key Features (By the end of the third sprint)
 10. Content Moderation
 - Feature: Reporting inappropriate content
 - Goal: Maintain a safe and respectful community through user-driven content moderation
-3. Sprint Breakdown
+
+**Sprint Breakdown**
 - Sprint 1: Core platform setup with account creation, search, credit system.
 - Sprint 2: Content Uploading, filtering, content preview, rating, categorization and comments for community interaction
 - Sprint 3: Notifications, popular content, bookmarking, recommendations, and reporting inappropriate content
 
-4. Participants
+**Participants**
 - Product Owner: Maya Shamir
 - Developers: Thomas Aziz
 - UI/UX Designers: Hien Le
 
-5. Conclusion
+**Conclusion**
 
-  With all three-sprint plans, we aim to deliver a robust initial version of the platform, covering key features that address user needs in syllabus sharing, discovery, and   engagement. Each Sprint will build upon the previous one to ensure a cohesive, value experience for students.
+With all three-sprint plans, we aim to deliver a robust initial version of the platform, covering key features that address user needs in syllabus sharing, discovery, and   engagement. Each Sprint will build upon the previous one to ensure a cohesive, value experience for students.
 
 
 
