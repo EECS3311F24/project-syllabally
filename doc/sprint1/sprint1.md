@@ -10,7 +10,7 @@ Developers: Thomas Aziz <br>
 UI/UX Designers: Hien Le 
 
 **3. Sprint 1 User Stories** <br>
-User Story 1: User Registration and Authentication <br>
+<ins>User Story 1:</ins> User Registration and Authentication <br>
 *As a student, I want to create an account so that I can access the platform and share syllabi.* <br>
 User Story 2: Contribution Credit System <br>
 *As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock.* <br>
