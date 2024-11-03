@@ -44,9 +44,11 @@ Epics/Key Features (By the end of the third sprint)
 - Feature: Reporting inappropriate content
 - Goal: Maintain a safe and respectful community through user-driven content moderation
 3. Sprint Breakdown
+  
 Sprint 1: Core platform setup with account creation, search, credit system.
-Sprint 2: Content Uploading, filtering, content preview, rating, categorization
- and comments for community interaction
+
+Sprint 2: Content Uploading, filtering, content preview, rating, categorization and comments for community interaction
+
 Sprint 3: Notifications, popular content, bookmarking, recommendations, and reporting inappropriate content
 
 4. Participants
