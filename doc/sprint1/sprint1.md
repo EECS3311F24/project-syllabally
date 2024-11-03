@@ -35,14 +35,14 @@ Set up backend search functionality and filtering (Backend Developer) <br>
 Implement front-end search bar and integrate with backend (Frontend Developer) <br>
 
 **6. Decisions and Notes** <br>
-Priority User Stories: User registration and authentication, as well as search for courses, are the highest priority to allow user engagement with the platform from the beginning. <br>
-Dependencies: User registration must be completed before any features requiring logged-in users (e.g., syllbus upload and credit system). <br>
-Technical Considerations: Decided to use Firebase for authentication to streamline development. <br>
-Risk: Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. <br>
+<ins>Priority User Stories:</ins> User registration and authentication, as well as search for courses, are the highest priority to allow user engagement with the platform from the beginning. <br>
+<ins>Dependencies:</ins> User registration must be completed before any features requiring logged-in users (e.g., syllbus upload and credit system). <br>
+<ins>Technical Considerations:</ins> Decided to use Firebase for authentication to streamline development. <br>
+<ins>Risk:</ins> Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. <br>
 
 **7. Action Items** <br>
-Design Team: Complete UI designs for registration, upload, credit system, and search by the first half of the sprint. <br>
-Development Team: Begin backend work for user authentication and credit tracking, then move to front-end integration. <br>
+<ins>Design Team:</ins> Complete UI designs for registration, upload, credit system, and search by the first half of the sprint. <br>
+<ins>Development Team:</ins> Begin backend work for user authentication and credit tracking, then move to front-end integration. <br>
 
 **8. Conclusion** <br>
 Sprint 1 will deliver core platform functionalities, allowing users to create accounts, upload syllabi, and earn/view credits. This establishes a foundation for future engagement and feature expansion in upcoming sprints.
