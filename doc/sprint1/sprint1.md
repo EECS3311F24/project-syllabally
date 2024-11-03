@@ -50,6 +50,9 @@ Implement front-end search bar and integrate with backend (Frontend Developer) <
 **7. Spikes** <br>
 <ins>Technical Spikes:</ins> Various members are new to JavaScript and REACT. Front-end in general is a new concept to some members. There will be limitations within the sprint of what is manageable and accomplished given the knowledge base. As the sprints continue, it is expected that individual skillsets will develop so that complex features can be implemented. <br>
 
-**8. Conclusion** <br>
+**8. Team Capacity** <br>
+Initial team capacity expected to be on the lower end of average. There are pressing time limitations for this particular sprint due to juggling of other assessments, and multiple members are not very familiar with the languages used to develop the back-end/front-end. Hours of availability differ between members. This capacity is expected to grow/improve for future sprints, as the initial challenges and gaps in knowledge are resolved. <br>
+
+**9. Conclusion** <br>
 Sprint 1 will deliver core platform functionalities, allowing users to create accounts, upload syllabi, and earn/view credits. This establishes a foundation for future engagement and feature expansion in upcoming sprints.
 
