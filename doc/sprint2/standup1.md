@@ -5,9 +5,9 @@ Members: Hien, Maya, Thomas
 - All together, we worked on redefining the product backlog for this current sprint, so that we know our updated user stories and can choose new tasks to complete. <br>
 ## 2. What do you commit to next?
 - From our user stories, we would like to work on the following user stories from our updated Product Backlog: <br>
-3) As a student, I want to earn contribution credits for each upload, so I feel motivated to share helpful syllabi. <br>
-10) As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. <br>
-5) As a student, I want to categorise the uploads (practice materials, support sites, syllabus, etc.), so others can easily find what they are looking for. <br>
+__Three:__ As a student, I want to earn contribution credits for each upload, so I feel motivated to share helpful syllabi. <br>
+__Ten:__ As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock. <br>
+__Five:__ As a student, I want to categorise the uploads (practice materials, support sites, syllabus, etc.), so others can easily find what they are looking for. <br>
 - The tenth user story was not completed from Sprint 1, so we would like to move it to this sprint and work on finishing it. <br>
 - We have set these up in order of priority. On the front-end, the focus is the uncompleted user story from Sprint 1 (User Story 10), as well as further fleshing out the home page and login/registration pages. This will be completed by **Hien** and **Maya**. **Thomas'** focus is on the back-end, prioritizing user stories 3 and 5 listed above. The front-end is given a lowered priority for these tasks, so that aspect could potentially be completed in the final Sprint. <br>
 ## 3. When do you think you'll be done? 
