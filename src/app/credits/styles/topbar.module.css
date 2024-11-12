@@ -1,0 +1,25 @@
+/* styles/TopBar.module.css */
+
+.topBar {
+  display: flex;
+  justify-content: end;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+
+.navLinks {
+  display: flex;
+  gap: 15px
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  font-size: 1em;
+  align-content: end;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
