@@ -2,7 +2,7 @@
 Members: Hien, Maya, Thomas <br>
 
 ## 1. What did you work on since the last standup?
-UI of credit page 
+- UI of credit page (front-end work) done by Hien 
 
 ## 2. What do you commit to next?
 - Implementing credits system <br>
