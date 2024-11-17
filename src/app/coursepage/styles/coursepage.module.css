@@ -1,0 +1,57 @@
+/* styles/HomePage.module.css */
+
+.layout {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mainContent {
+    display: flex;
+  }
+  
+  .content {
+    position: relative;
+    width: 100%;
+    height: 500px;  
+    padding: 20px;
+  }
+
+  .courseinfo {
+    position:absolute;
+    top: 10%;
+    left: 5%;
+    width: 100%;
+    height: 30%;
+  }
+  
+  .courserate {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 20%;
+    height: 30%;
+  }
+
+  .profrate {
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    width: 20%;
+    height: 30%;
+  }
+  
+  .forum {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1000px;
+    height: 600px;
+  }
+
+  .uploadsyllabus {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 1000px;
+    height: 600px;
+  }
