@@ -12,11 +12,11 @@
 ## 3. User Stories Sprint 2
 
 **User Story 1: Contribution Credit System - Viewing Credit Balance (7 Points)** <br>
-As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock <br>
+  As a student, I want to view my contribution credit balance, so I can keep track of how much I can unlock <br>
 **User Story 2: Categorise the uploads (20 Points)** <br>
-As a student, I want to categorise the uploads (practice materials, support sites, syllabus, etc.), so others can easily find what they are looking for. <br>
+  As a student, I want to categorise the uploads (practice materials, support sites, syllabus, etc.), so others can easily find what they are looking for. <br>
 **User Story 3: Contribution Credit System - Earning Credits  (5 Points)** <br>
-As a student, I want to earn contribution credits for each upload, so I feel motivated to share helpful syllabi. <br>
+  As a student, I want to earn contribution credits for each upload, so I feel motivated to share helpful syllabi. <br>
 
 ## 4. Task Breakdown
 
@@ -36,10 +36,10 @@ As a student, I want to earn contribution credits for each upload, so I feel mot
 - Implement other UI functionality such as the course information, rating displays, and the forum, which also ways for users earning their credit (Frontend Developer) <br>
 ## 6. Decisions and Notes
 
-**Priority User Stories:** Viewing user’s credits, as well as course upload page, are the highest priority to allow user engagement with the platform following the authentication and search phases. <br>
-**Dependencies:** The syllabus upload functionality must be completed so that the credit calculation can be active (upload the syllabus is one of a way to earn credit). <br>
-**Technical Considerations:** Decided to use Firebase for the credit system to streamline development. For storing the syllabus, using the Google Storage as a database. <br>
-**Risk:** Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. Uploads could be removed from current Sprint due to the need to establish a whole separate infrastructure, likely using Google Cloud storage. <br>
+- **Priority User Stories:** Viewing user’s credits, as well as course upload page, are the highest priority to allow user engagement with the platform following the authentication and search phases. <br>
+- **Dependencies:** The syllabus upload functionality must be completed so that the credit calculation can be active (upload the syllabus is one of a way to earn credit). <br>
+- **Technical Considerations:** Decided to use Firebase for the credit system to streamline development. For storing the syllabus, using the Google Storage as a database. <br>
+- **Risk:** Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. Uploads could be removed from current Sprint due to the need to establish a whole separate infrastructure, likely using Google Cloud storage. <br>
 
 ## 7. Action Items
 - **Design Team:** Complete UI designs for credit system, and the course page for this sprint. <br>
