@@ -42,8 +42,8 @@ As a student, I want to earn contribution credits for each upload, so I feel mot
 **Risk:** Limited time may impact the depth of testing; focus on ensuring core functionality works before adding enhancements. Uploads could be removed from current Sprint due to the need to establish a whole separate infrastructure, likely using Google Cloud storage. <br>
 
 ## 7. Action Items
-**Design Team:** Complete UI designs for credit system, and the course page for this sprint. <br>
-**Development Team:** Begin backend work for user credit tracking, then move to front-end integration. If possible, begin constructing the database infrastructure for storing uploaded syllabuses. <br>
+- **Design Team:** Complete UI designs for credit system, and the course page for this sprint. <br>
+- **Development Team:** Begin backend work for user credit tracking, then move to front-end integration. If possible, begin constructing the database infrastructure for storing uploaded syllabuses. <br>
 
 ## 8. Conclusion
 - Sprint 2 will deliver core platform functionalities, allowing users to be familiar with 
