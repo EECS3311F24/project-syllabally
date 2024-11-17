@@ -16,6 +16,7 @@ Members: Hien, Maya, Thomas <br>
 ## 3. When do you think you’ll be done?
 - By midnight tonight, all deliverables will be placed in the doc folder of the Sprint 2 branch <br>
 - User stories that were uncompleted will be provided new date goals for completion in Sprint 3 <br>
+- The credit modification feature should be done by November 20th (Sprint 3)
 
 
 ## 4. Do you have any blockers? 
