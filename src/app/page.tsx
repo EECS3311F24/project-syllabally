@@ -7,7 +7,7 @@ export default function Home() {
               Syllabally
           </h1>
           <h2>EECS3311 Fall 2024</h2>
-          <h2>Thomas Aziz, Hien Le, Maya Shamir, Marko Stojsic</h2>
+          <h2>Thomas Aziz, Hien Le, Maya Shamir</h2>
           <h2>York University</h2>
         </ol>
 
