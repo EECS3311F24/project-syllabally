@@ -4,7 +4,7 @@ Syllabally is a tool designed to help students pick the right courses and sectio
 
 ## Member Disclaimer
 
-Originally, there were 4 members to this group. As one member has been unreachable throughout the Sprint, please consider them removed from this repository. The active members are comprised of Hien Le, Maya Shamir, and Thomas Aziz. This group makes up the project contributions and attendance going forward.
+Originally, there were 3 members to this group. As one member has been unreachable throughout the Sprint, please consider them removed from this repository. The active members are comprised of Hien Le, Maya Shamir, and Thomas Aziz. This group makes up the project contributions and attendance going forward.
 
 ## Usage
 Syllabally is a web application, hosted on Google Cloud Platforms. Once live, you can access and use the application [here](https://syllabally-host-207408110776.us-central1.run.app)
