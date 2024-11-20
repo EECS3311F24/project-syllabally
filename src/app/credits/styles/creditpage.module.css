@@ -1,0 +1,49 @@
+/* styles/HomePage.module.css */
+
+.layout {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mainContent {
+    display: flex;
+  }
+  
+  .content {
+    position: relative;
+    width: 100%;
+    height: 500px;  
+    padding: 20px;
+  }
+
+  .infobalance {
+    position:absolute;
+    top: 10%;
+    left: 5%;
+    width: 100%;
+    height: 25%;
+  }
+  
+  .infonotice {
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    width: 20%;
+    height: 25%;
+  }
+  
+  .infotip {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 20%;
+    height: 30%;
+  }
+
+  .infotransaction {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 100%;
+    height: 50%;
+  }
