@@ -10,6 +10,7 @@ Members: Hien, Maya, Thomas <br>
 ## 2. What do you commit to next?
 - course page UI <br>
 - syllabus upload functionality <br>
+- exact user stories will be worked out in the next Standup meeting <br>
 
 ## 3. When do you think you’ll be done?
 - allowing next major check-in to be week away (November 27th) <br>
