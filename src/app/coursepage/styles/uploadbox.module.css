@@ -1,0 +1,42 @@
+.infobox {
+    background-color: #e7e5e5;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 10px auto;
+}
+
+.infobox-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.infobox-body {
+    font-size: 14px;
+    color: #333;
+    white-space: pre-line;
+    overflow-y: scroll;
+    height: 450px;
+}
+
+/* Styling for the button */
+.upload-button {
+  margin-top: 30px; /* Space between the button and the box */
+  padding: 10px 10px;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  width: 100px;
+}
+
+.upload-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

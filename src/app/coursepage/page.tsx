@@ -3,6 +3,7 @@
 import TopBar from './components/topbar';
 import Sidebar from './components/sidebar';
 import Infobox from './components/infobox';
+import Uploadbox from './components/uploadbox';
 import styles from './styles/coursepage.module.css';
 
 
@@ -18,7 +19,7 @@ const Homepage: React.FC = () => {
         <Infobox className={styles.courserate} header="Rate This Course" body="Course Rate:..." dropdownOptions={['Excellent', 'Good', 'Average', 'Poor']} />
         <Infobox className={styles.profrate} header="Rate This Professor" body="Professor Rate:..." dropdownOptions={['Excellent', 'Good', 'Average', 'Poor']} />
         <Infobox className={styles.forum} header="Forum" body="Coming Soon" />
-        <Infobox className={styles.uploadsyllabus} header="Uploaded Syllabuses" body="Coming Soon" />
+        <Uploadbox className={styles.uploadsyllabus} header="Uploaded Syllabuses" body="Coming Soon" button="Upload"/>
         </div>
       </div>
     </div>
