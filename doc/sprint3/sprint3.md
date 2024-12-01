@@ -24,12 +24,12 @@ As a user, I want to be able to engage in discussion forums, so that I can get s
 - Set up backend for credit calculation and storage (Backend Developer) <br>
 - Implement credit balance display on front-end (Frontend Developer) <br>
 
-**User Story 2: Visual for Syllabus Container ** <br>
+**User Story 2: Visual for Syllabus Container** <br>
 -  Focus mostly on building the information box in the course page UI where students can view the uploaded syllabus for the selected course and have the option to upload the files via a button (Designer) <br>
 - Set up a backend for storing files, syllabi, if possible. (Backend Developer) <br>
 - Implement syllabi display on front-end (Frontend Developer) <br>
 
-**User Story 3: Visual for Discussion Forums **<br>
+**User Story 3: Visual for Discussion Forums** <br>
 - Design the forum chat box in the course page. The main objective feature for this story is to have the front-end design for users to engage in the discussion forums and a foundation for the back-end to implement the operation. (Designer) <br>
 - Implement other UI functionality for the forum, if possible (Frontend Developer) <br>
 
