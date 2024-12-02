@@ -5,6 +5,10 @@ Syllabally is a tool designed to help students pick the right courses and sectio
 ## Disclaimer
 - All the deliverables documents for each sprint can be found in these branches: sprint1, Sprint-2--First-Branch, Sprint3-FirstBranch
 - The updated feature code for each sprint corresponds to their placeholder "SprintN-...". Excepts for Sprint1 since we haven't give the placeholder (registration, search, sprint1 are related to Sprint1)
+  
+## Member Disclaimer
+
+Originally, there were 4 members to this group. As one member has been unreachable throughout the Sprint, please consider them removed from this repository. The active members are comprised of Hien Le, Maya Shamir, and Thomas Aziz. This group makes up the project contributions and attendance going forward.
 
 ## Usage
 Syllabally is a web application, hosted on Google Cloud Platforms. Once live, you can access and use the application at www.syllabally.com (placeholder).
