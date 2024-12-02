@@ -2,6 +2,10 @@
 
 Syllabally is a tool designed to help students pick the right courses and sections throughout their university journey. Using Syllabally, students can take a look at the syllabi for past and current courses, across every section, and use that information to make more informed choices about the courses and sections they are taking. They can read notes prepared by previous students, compare reviews and ratings of each course and the relevant professors, and determine where each course will fit in their overall undergrad process. We believe that students should have more choices, more information, and the ability to have a more holistic understanding of the entire undegraduate degree process at York, and Syllabally will go a long way towards supporting that.
 
+## Disclaimer
+- All the deliverables documents for each sprint can be found in these branches: sprint1, Sprint-2--First-Branch, Sprint3-FirstBranch
+- The updated feature code for each sprint corresponds to their placeholder "SprintN-...". Excepts for Sprint1 since we haven't give the placeholder (registration, search, sprint1 are related to Sprint1)
+
 ## Usage
 Syllabally is a web application, hosted on Google Cloud Platforms. Once live, you can access and use the application [here](https://syllabally-host-207408110776.us-central1.run.app)
 
