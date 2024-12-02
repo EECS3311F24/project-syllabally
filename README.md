@@ -12,6 +12,7 @@ Originally, there were 4 members to this group. As one member has been unreachab
 
 ## Usage
 Syllabally is a web application, hosted on Google Cloud Platforms. Once live, you can access and use the application at www.syllabally.com (placeholder).
+https://syllabally-host-207408110776.us-central1.run.app/
 
 ## Installing and Contributing
 
