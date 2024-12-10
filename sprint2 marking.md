@@ -200,9 +200,9 @@ Tracking on Trello Total Mark: 24 / 24
     There is no web link or other reference lending support to the presented diagram.
     - 0 marks = No diagram present or the presented document does not look like a software architecture diagram
 
-    Your Mark: 3 (try to use databae, user interaction flow such e.g., directional arrows from "User" to system modules)
+    Your Mark: 2 (try to use database, user interaction flow such e.g., directional arrows from "User" to system modules)
 
-  System Design Total: 9 / 10  
+  System Design Total: 8 / 10  
 
 ---
 
@@ -238,4 +238,4 @@ Tracking on Trello Total Mark: 24 / 24
   ---
 ## Total Mark
 
-108 / 109
+107 / 109
